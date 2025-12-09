@@ -36,7 +36,7 @@ Code. Break. Fix. Repeat.
 - **Tools:** Git, GitHub, VS Code
 
 ---
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dixu543&show_icons=true&theme=radical" alt="stats" />
   <br><br>
@@ -45,8 +45,7 @@ Code. Break. Fix. Repeat.
 
 
 
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=dixu543&theme=radical)
+
 
 ## 📈 Activity Graph
 ![GitHub Graph](https://readme-activity-graph.vercel.app/graph?username=dixu543&theme=tokyo-night)
