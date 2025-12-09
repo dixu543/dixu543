@@ -1,49 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I’m Deekshitha Gatreddi (dixu543)
 
-
---># 👋 Hi, I’m Deekshitha Gatreddi (dixu543)
-
-```txt
 Code. Break. Fix. Repeat.
-🔭 I’m currently working on
-Full-stack web development projects using MERN stack
 
-AI/ML experiments and personal chatbot project
+---
 
-🌱 I’m currently learning
-Generative AI
+## 🔭 I’m currently working on
+- Full-stack web development projects using **MERN stack**  
+- AI/ML experiments and personal chatbot project
 
-Advanced JavaScript & Python backend development
+## 🌱 I’m currently learning
+- Generative AI  
+- Advanced JavaScript & Python backend development  
+- Figma & Webflow for UI/UX design
 
-Figma & Webflow for UI/UX design
+## 👯 I’m looking to collaborate on
+- Open-source web development projects  
+- AI-powered tools and chatbots
 
-👯 I’m looking to collaborate on
-Open-source web development projects
+## 🤔 I’m looking for help with
+- Optimizing AI models for better responses  
+- Complex backend system architecture
 
-AI-powered tools and chatbots
+## 💬 Ask me about
+- Web development, Python, C, and AI  
+- Building projects from scratch
 
-🤔 I’m looking for help with
-Optimizing AI models for better responses
+## ⚡ Fun fact
+- Debugging is my cardio  
+- I can turn coffee into code ☕💻
 
-Complex backend system architecture
+## 🛠 Tech Stack
+- **Languages:** C, Python, JavaScript, HTML, CSS, Java (basics)  
+- **Frameworks/Libraries:** Pandas, Matplotlib  
+- **Databases:** MySQL  
+- **Tools:** Git, GitHub, VS Code
 
-💬 Ask me about
-Web development, Python, C, and AI
+---
 
-Building projects from scratch
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dixu543&show_icons=true&theme=tokyonight)
 
-⚡ Fun fact
-Debugging is my cardio
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=dixu543&theme=tokyonight)
 
-I can turn coffee into code ☕💻
-
-🛠 Tech Stack
-Languages: C, Python, JavaScript, HTML, CSS,Java(basics)
-
-Frameworks: Pandas,matplotlib
-
-Databases: MySQL
-
-Tools: Git, GitHub, VS Code
-
-
+## 📈 Activity Graph
+![GitHub Graph](https://readme-activity-graph.vercel.app/graph?username=dixu543&theme=tokyo-night)
