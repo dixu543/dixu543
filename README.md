@@ -37,8 +37,7 @@ Code. Break. Fix. Repeat.
 
 ---
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dixu543&show_icons=true&theme=dark&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dixu543&show_icons=true&theme=radical&hide_border=true)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dixu543&theme=radical)
